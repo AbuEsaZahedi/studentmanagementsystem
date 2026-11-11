@@ -23,6 +23,7 @@ unset($_SESSION["login_error"]);
     <!-- Page Title -->
     <div class="page-title">
         <h1>Student Management System</h1>
+        <h2>Manges By @Esa </h2>
     </div>
 
     <!-- Login Form Container -->
